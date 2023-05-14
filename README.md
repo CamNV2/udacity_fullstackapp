@@ -50,3 +50,7 @@ Add your own domain name and have it point to the running services (try adding a
 ### Link to verify elastic beanstalk deployment
 
 http://udacity-own-instagram-app-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg
+
+### GitHub Repository Link
+
+https://github.com/CamNV2/udacity_fullstackapp
