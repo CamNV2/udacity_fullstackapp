@@ -6,5 +6,6 @@
     // "jsRules": {},
     // "rules": {
     // },
-    // "rulesDirectory": []
+    // "rulesDirectory": ['auth', 'jwt']
+
 }
